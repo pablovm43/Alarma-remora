@@ -26,7 +26,7 @@
 
 // Wifi network station credentials
 #define WIFI_SSID "PabloHFC"
-#define WIFI_PASSWORD "valentin4"
+#define WIFI_PASSWORD "valentin"
 // Telegram BOT Token (Get from Botfather)
 #define BOT_TOKEN "1409709611:AAG6xi59uAHdmb32uYwBVfjtbrK-oN72A5s"
 
